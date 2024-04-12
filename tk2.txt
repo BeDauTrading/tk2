@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 heêhjbjhbÁDFGHJKL;
+=======
+heêhjbjhb
+ffff
+>>>>>>> origin/w1
